@@ -1,0 +1,6 @@
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Passagens\bin\Debug\Passagens.dll.config
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Passagens\bin\Debug\Passagens.dll
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Passagens\bin\Debug\Passagens.pdb
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Passagens\obj\Debug\Passagens.csprojResolveAssemblyReference.cache
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Passagens\obj\Debug\Passagens.dll
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Passagens\obj\Debug\Passagens.pdb

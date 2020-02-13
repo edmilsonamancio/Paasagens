@@ -1,0 +1,7 @@
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Hosting\bin\Debug\Hosting.exe
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Hosting\bin\Debug\Hosting.pdb
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Hosting\bin\Debug\Passagens.dll
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Hosting\bin\Debug\Passagens.pdb
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Hosting\obj\Debug\Hosting.exe
+D:\Dados\eamancio\Documents\Visual Studio 2012\Projects\Passagens\Hosting\obj\Debug\Hosting.pdb
