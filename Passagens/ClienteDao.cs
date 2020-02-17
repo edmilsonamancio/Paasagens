@@ -7,7 +7,7 @@ namespace Passagens
 {
     public class ClienteDao
     {
-        private static List<Cliente> clientes = new List<Cliente>();
+        public static List<Cliente> clientes = new List<Cliente>();
 
         public void Add(Cliente c)
         {
